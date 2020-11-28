@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606586136 source:c:\users\farhan\documents\c++ program\cpu scheduling simulator\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<iomanip>
+
